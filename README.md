@@ -1,4 +1,4 @@
-# S & P Hangman
+# S&P Hangman
 
 S&P 500 themed Hangman game. 
 <br>
