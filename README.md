@@ -1,3 +1,4 @@
 # S & P Hangman
 
-This is the classic hangman game with the theme of S & P 500 companies. Words in here are the names of some of the famous S & P 500 companies.
+S&P 500 themed Hangman game. 
+Words in here are the names of some of the famous S & P 500 companies.
